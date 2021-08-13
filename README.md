@@ -1,6 +1,6 @@
 ### Hi my name is Gustavo
 
-i am a beginner programmer
+i'm a beginner programmer. I'm learning JavaScript and NodeJS and I've been programming for a while
 
 <!--
 **guticloonegames/guticloonegames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
