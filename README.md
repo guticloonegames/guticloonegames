@@ -1,6 +1,7 @@
 ### Hi my name is Gustavo
 
-i'm a beginner programmer. I'm learning JavaScript and NodeJS and I've been programming for a while
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?guticlonegames)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **guticloonegames/guticloonegames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
