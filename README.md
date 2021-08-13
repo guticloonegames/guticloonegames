@@ -1,5 +1,7 @@
 ### Hi my name is Gustavo
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guticloonegames&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guticloonegames&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guticloonegames&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guticloonegames&layout=compact&theme=tokyonight&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
