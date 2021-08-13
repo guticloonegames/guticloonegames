@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi my name is Gustavo
+
+i am a beginner programmer
 
 <!--
 **guticloonegames/guticloonegames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
